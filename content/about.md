@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 nav_order: 2
 ---
-Psotnic is an [IRCnet](https://www.ircnet.com) bot written in C++. The main goal of the project was to create a fast, stable and easy to use bot.
+Psotnic is an [IRCnet](https://www.ircnet.com/) bot written in C++. The main goal of the project was to create a fast, stable and easy to use bot.
 
 Here is a list of features:
 
